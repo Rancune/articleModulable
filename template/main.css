@@ -1,0 +1,26 @@
+/*
+    Fichier modifiable pour gérer le style de l'article
+*/
+
+.ac-img {
+    width: 100%;
+}
+
+.ac-map {
+    width: 100% !important;
+    height: 400px !important;
+}
+
+.ac-container {
+    width: 1170px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.ac-title-header {
+    text-align: center;
+    padding-bottom: 16px;
+    border-bottom: 1px solid grey;
+}
