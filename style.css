@@ -1,0 +1,142 @@
+body {
+    font-family: "Lato", sans-serif;
+
+}
+
+
+/*
+.sidenav {
+    height: 100%;
+    width: auto;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #acacac;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+*/
+
+#workspace {
+    min-height: 500px;
+    border-style: dotted;
+    border-color: burlywood;
+    background-color: crimson;
+}
+
+.main {
+    margin-left: 190px;
+    /* Same as the width of the sidenav */
+    /*  background-color: crimson;*/
+}
+
+
+
+#menuTitre {
+    margin-top: 40px;
+    text-align: center;
+}
+
+#menu {
+    background-color: #8d8d8d;
+    min-height: 900px;
+    z-index: 100;
+
+}
+
+#work {
+    background-color: #ffffff;
+    min-height: 900px;
+}
+
+/*.row {
+    min-height: 900px;
+ 
+}*/
+
+#removemodul {
+    float: right;
+    margin: auto;
+}
+
+
+.container {
+    border-style: dotted;
+    border-color: black;
+    /*background-color: aqua;*/
+    min-height: 400px;
+    width: auto;
+}
+
+#col {
+   /* background-color: #425fff;*/
+    border-color: black;
+    margin-top: 5px;
+    /* text-align: center;*/
+    border-style: dotted;
+
+    min-height: 50px;
+}
+
+#cols {
+   /* background-color: #48aa00;*/
+    border-color: black;
+    margin-top: 5px;
+    text-align: center;
+    border-style: dotted;
+
+    min-height: 50px;
+}
+
+#colss {
+ /*   background-color: #a502cc;*/
+    border-color: black;
+    margin-top: 5px;
+    text-align: center;
+    border-style: dotted;
+
+    min-height: 50px;
+}
+
+#colssss {
+/*
+    background-color: #eae10a;
+*/
+    border-color: black;
+    margin-top: 5px;
+    text-align: center;
+    border-style: dotted;
+
+    min-height: 50px;
+}
+
+.btn {
+    margin: 5px;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+
+}
+
+#text, #image, #video, #maps {
+ /*   background-color: chartreuse;*/
+    border-color: black;
+    margin-top: 5px;
+    border-style: dotted;
+}
+
+
+.map {
+      width: 100%;
+    align-content: center;
+      height: 400px;
+    }
+/*.row{
+    margin-top: 10px;
+}*/
